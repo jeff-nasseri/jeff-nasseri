@@ -50,10 +50,6 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<b>🧩 Agelo:</b> I'm also working on a kanban board for human-agent communication, where you can write tasks/stories for your agent and the agent can follow your Kanban or even Scrum methodologies to finish the job.
-
-<p>→ <a href="https://agelo.app">agelo.app</a> &nbsp;·&nbsp; <a href="https://github.com/Agelo-Platform">Agelo-Platform</a></p>
-
 </td>
 <td valign="top" width="44%" align="center">
 
