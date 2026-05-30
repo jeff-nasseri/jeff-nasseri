@@ -71,7 +71,7 @@ without the friction.
 <td valign="top" width="44%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=jeff-nasseri&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeff-nasseri&theme=github_dark"
   width="100%"
   alt="GitHub Stats"/>
 
@@ -85,9 +85,9 @@ without the friction.
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-nasseri&layout=compact&theme=react&hide_border=true&langs_count=6"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeff-nasseri&theme=github_dark"
   width="100%"
-  alt="Top Languages"/>
+  alt="Top Languages by Commit"/>
 
 </td>
 </tr>
