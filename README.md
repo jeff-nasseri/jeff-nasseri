@@ -78,9 +78,9 @@ without the friction.
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=jeff-nasseri&theme=dark&hide_border=true&v=3"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeff-nasseri&theme=github_dark"
   width="100%"
-  alt="GitHub Streak"/>
+  alt="Contribution Timeline"/>
 
 <br/>
 
