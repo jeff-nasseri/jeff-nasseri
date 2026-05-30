@@ -78,7 +78,7 @@ without the friction.
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&theme=dark&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true"
   width="100%"
   alt="GitHub Streak"/>
 
