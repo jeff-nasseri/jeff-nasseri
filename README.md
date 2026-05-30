@@ -64,12 +64,10 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<br/>
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true&card_width=340"
   width="100%"
   alt="GitHub Streak"/>
-<br/>
 
 <br/>
 
