@@ -22,21 +22,14 @@
 <h3>About</h3>
 
 <p>
-Software engineer building AI infrastructure for the next generation of autonomous agents and AGI systems.
-My work spans the full SDLC — from bare-metal and serverless deployments to distributed microservice architectures —
-structured specifically so AI can read, reason over, and extend it without human handholding.
-</p>
-
-<p>
-The thesis: design systems at a level of clarity and composability where an AI agent can own the development loop
-— picking up context, making changes, and shipping — without me needing to trace every implementation detail.
+Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on opensource for the next and incoming generation of AI Agents and AGIs. I enjoy using my knowledge to combine various aspects of the SDLC, starting from infrastructure deployment (whether it's bare metal or serverless deployment) to developing microservice architecture nodes in any framework, into a way of understanding for AI, so it can understand and manipulate and continue development until it reaches a high enough level to prevent me from needing to know the details of exactly how my application works.
 </p>
 
 <hr/>
 
 <h3>Active Open Source Projects</h3>
 
-<b>🔌 MCP Servers</b> &nbsp;—&nbsp; <i>connecting AI assistants to real infrastructure</i>
+<b>🔌 MCP tools:</b> Currently I'm working on and maintaining networking and financial MCP tools
 
 <br/><br/>
 
@@ -57,13 +50,7 @@ The thesis: design systems at a level of clarity and composability where an AI a
 
 <br/>
 
-<b>🧩 Agelo</b> &nbsp;—&nbsp; <i>prompt-driven design board for human–agent teams</i>
-
-<p>
-Write stories and tasks the way you think. Agelo lets AI agents follow your Kanban or Scrum board —
-picking up cards, executing work, and transitioning state autonomously. Human–agent collaboration
-without the friction.
-</p>
+<b>🧩 Agelo:</b> I'm also working on a kanban board for human-agent communication, where you can write tasks/stories for your agent and the agent can follow your Kanban or even Scrum methodologies to finish the job.
 
 <p>→ <a href="https://agelo.app">agelo.app</a> &nbsp;·&nbsp; <a href="https://github.com/Agelo-Platform">Agelo-Platform</a></p>
 
@@ -77,10 +64,12 @@ without the friction.
 
 <br/>
 
+<br/>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true"
   width="100%"
   alt="GitHub Streak"/>
+<br/>
 
 <br/>
 
