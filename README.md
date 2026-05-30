@@ -1,15 +1,105 @@
-<h2 align="center">Welcome</h2>
+<h2 align="center">Jeff Nasseri</h2>
+<p align="center"><b>AI Infrastructure Engineer &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; The Netherlands</b></p>
 
-<p align="center"> 
-Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure for the next and incoming generation of AI Agents and AGIs. I enjoy using my knowledge to combine various aspects of the SDLC, starting from infrastructure deployment (whether it's bare metal or serverless deployment) to developing microservice architecture nodes in any framework, into a way of understanding for AI, so it can understand and manipulate and continue development until it reaches a high enough level to prevent me from needing to know the details of exactly how my application works.
+<p align="center">
+  <a href="https://portfolio.jeffnasseri.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/jeff-nasseri">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@sir.jeff.nasseri">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
+
 <br/>
 
+<table width="100%">
+<tr>
+<td valign="top" width="56%">
+
+<h3>About</h3>
+
+<p>
+Software engineer building AI infrastructure for the next generation of autonomous agents and AGI systems.
+My work spans the full SDLC — from bare-metal and serverless deployments to distributed microservice architectures —
+structured specifically so AI can read, reason over, and extend it without human handholding.
+</p>
+
+<p>
+The thesis: design systems at a level of clarity and composability where an AI agent can own the development loop
+— picking up context, making changes, and shipping — without me needing to trace every implementation detail.
+</p>
+
+<hr/>
+
+<h3>Active Open Source Projects</h3>
+
+<b>🔌 MCP Servers</b> &nbsp;—&nbsp; <i>connecting AI assistants to real infrastructure</i>
+
+<br/><br/>
+
+<table>
+<tr>
+  <td><a href="https://github.com/jeff-nasseri/mikrotik-mcp"><b>mikrotik-mcp</b></a></td>
+  <td>RouterOS AI interface</td>
+  <td><code>Python</code></td>
+  <td><a href="https://mikrotik-mcp.com">docs ↗</a></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/jeff-nasseri/revolut-mcp"><b>revolut-mcp</b></a></td>
+  <td>Revolut Open Banking AI interface</td>
+  <td><code>TypeScript</code></td>
+  <td></td>
+</tr>
+</table>
+
+<br/>
+
+<b>🧩 Agelo</b> &nbsp;—&nbsp; <i>prompt-driven design board for human–agent teams</i>
+
+<p>
+Write stories and tasks the way you think. Agelo lets AI agents follow your Kanban or Scrum board —
+picking up cards, executing work, and transitioning state autonomously. Human–agent collaboration
+without the friction.
+</p>
+
+<p>→ <a href="https://agelo.app">agelo.app</a> &nbsp;·&nbsp; <a href="https://github.com/Agelo-Platform">Agelo-Platform</a></p>
+
+</td>
+<td valign="top" width="44%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jeff-nasseri&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,reviews"
+  width="100%"
+  alt="GitHub Stats"/>
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&theme=react&hide_border=true"
+  width="100%"
+  alt="GitHub Streak"/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-nasseri&layout=compact&theme=react&hide_border=true&langs_count=6"
+  width="100%"
+  alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
   <a href="#">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=jeff-nasseri&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
+      width="95%"
+      alt="activity graph">
   </a>
 </p>
