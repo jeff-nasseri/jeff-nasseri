@@ -31,7 +31,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <b>🔌 MCP tools:</b> Currently I'm working on and maintaining networking and financial MCP tools
 
-<br/><br/>
+<br/>
 
 <table>
 <tr>
