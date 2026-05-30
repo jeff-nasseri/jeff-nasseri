@@ -1,5 +1,5 @@
 <h2 align="center">Jeff Nasseri</h2>
-<p align="center"><b>AI Infrastructure Engineer &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; The Netherlands</b></p>
+<p align="center"><b>Software Engineer &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; The Netherlands</b></p>
 
 <p align="center">
   <a href="https://portfolio.jeffnasseri.com">
@@ -71,14 +71,14 @@ without the friction.
 <td valign="top" width="44%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=jeff-nasseri&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,reviews"
+  src="https://github-readme-stats.vercel.app/api?username=jeff-nasseri&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"
   width="100%"
   alt="GitHub Stats"/>
 
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&theme=react&hide_border=true"
+  src="https://streak-stats.demolab.com?user=jeff-nasseri&theme=react&hide_border=true"
   width="100%"
   alt="GitHub Streak"/>
 
