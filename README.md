@@ -54,6 +54,8 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <p>→ <a href="https://agelo.app">agelo.app</a> &nbsp;·&nbsp; <a href="https://github.com/Agelo-Platform">Agelo-Platform</a></p>
 
+<br/>
+
 </td>
 <td valign="top" width="44%" align="center">
 
