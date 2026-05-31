@@ -56,6 +56,12 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
+<b>💰 Capitrack:</b> A self-hosted platform I'm building for personal wealth tracking and investment portfolio management, where you can monitor your investments across stocks, crypto, and commodities with real-time pricing and portfolio analytics.
+
+<p>→ <a href="https://capitrack.dev">capitrack.dev</a> &nbsp;·&nbsp; <a href="https://github.com/jeff-nasseri/Capitrack">Capitrack</a></p>
+
+<br/>
+
 </td>
 <td valign="top" width="44%" align="center">
 
