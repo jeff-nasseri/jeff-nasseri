@@ -66,21 +66,21 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 <td valign="top" width="44%" align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeff-nasseri&theme=github_dark"
+  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/3-stats.svg"
   width="100%"
   alt="GitHub Stats"/>
 
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true&card_width=340"
+  src="https://streak-stats.demolab.com?user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true&card_width=340&disable_animations=true"
   width="100%"
   alt="GitHub Streak"/>
 
 <br/>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeff-nasseri&theme=github_dark"
+  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
   width="100%"
   alt="Top Languages by Commit"/>
 
