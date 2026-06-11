@@ -1,4 +1,4 @@
-name: Generate profile summary cards
+name: Generate profile cards
 
 on:
   schedule:
@@ -16,7 +16,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -24,4 +26,28 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 2
           EXCLUDE: ""
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      # Streak has no self-host action, so snapshot it from two mirrors.
+      # On total failure the previous snapshot stays in place, so the
+      # profile never shows a broken image.
+      - name: Snapshot streak card
+        run: |
+          mkdir -p profile-cards
+          PARAMS="user=jeff-nasseri&background=161b22&ring=58a6ff&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58a6ff&sideLabels=C9D1D9&dates=8B949E&hide_border=true&card_width=340&disable_animations=true"
+          fetch() { curl -fsSL --max-time 60 "$1" -o /tmp/streak.svg && grep -q "<svg" /tmp/streak.svg; }
+          if fetch "https://streak-stats.demolab.com?$PARAMS" || fetch "https://github-readme-streak-stats.herokuapp.com/?$PARAMS"; then
+            mv /tmp/streak.svg profile-cards/streak.svg
+            echo "Streak card refreshed"
+          else
+            echo "::warning::Both streak sources failed; keeping previous snapshot"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Refresh profile cards"
+          git pull --rebase origin main
+          git push origin main
