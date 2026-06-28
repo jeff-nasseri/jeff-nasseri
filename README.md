@@ -69,7 +69,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 <table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/Capitrack"><b>Capitrack</b></a></td>
-  <td>Personal wealth tracking &amp; investment portfolio management</td>
+  <td>Personal wealth &amp; portfolio tracking</td>
   <td><a href="https://capitrack.dev">capitrack.dev ↗</a></td>
 </tr>
 </table>
@@ -83,7 +83,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 <table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/penfolio"><b>PenFolio</b></a></td>
-  <td>Self-hosted CV / cover-letter builder &amp; job tracker</td>
+  <td>CV / cover-letter builder &amp; job tracker</td>
   <td>-</td>
 </tr>
 </table>
@@ -95,7 +95,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/3-stats.svg"
-  width="100%"
+  width="270"
   alt="GitHub Stats"/>
 
 <br/>
@@ -111,7 +111,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
-  width="100%"
+  width="270"
   alt="GitHub Streak"/>
 
 <br/>
@@ -127,7 +127,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  width="100%"
+  width="270"
   alt="Top Languages by Commit"/>
 
 </td>
