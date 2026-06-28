@@ -18,7 +18,7 @@
 <h3>About</h3>
 
 <p>
-Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on opensource for the next and incoming generation of AI Agents and AGIs. I enjoy using my knowledge to combine various aspects of the SDLC, starting from infrastructure deployment (whether it's bare metal or serverless deployment) to developing microservice architecture nodes in any framework, into a way of understanding for AI, so it can understand and manipulate and continue development until it reaches a high enough level to prevent me from needing to know the details of exactly how my application works.
+Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on opensource for the next and incoming generation of AI Agents and AGIs. I enjoy using my knowledge to combine various aspects of the SDLC, starting from infrastructure deployment (whether it's bare metal or serverless deployment) to developing monolith/SOA in any framework, into a way of understanding for AI, so it can understand and manipulate and continue development until it reaches a high enough level to prevent me from needing to know the details of exactly how my application works.
 </p>
 
 <hr/>
