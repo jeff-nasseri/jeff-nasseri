@@ -100,14 +100,6 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
@@ -116,19 +108,27 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
   width="270"
   alt="Top Languages by Commit"/>
+
+<br/>
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+  width="270"
+  alt="Productive Time"/>
+
+<br/>
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  width="270"
+  alt="Repos per Language"/>
 
 </td>
 </tr>
