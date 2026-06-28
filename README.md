@@ -15,6 +15,10 @@
 
 <br/>
 
+<table width="100%">
+<tr>
+<td valign="top" width="56%">
+
 <h3>About</h3>
 
 <p>
@@ -29,7 +33,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/mikrotik-mcp"><b>mikrotik-mcp</b></a></td>
   <td>RouterOS AI interface</td>
@@ -44,11 +48,11 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<b>🛠️ Software Development, Project Management &amp; IT Service Management (ITSM):</b> Tooling I build to help developers and teams plan, manage, and ship their work with AI in the loop
+<b>🤖 Project Management with AI Agents:</b> Tooling I build so teams and their AI agents can plan, manage, and ship work together
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
   <td><a href="https://github.com/Agelo-Platform"><b>Agelo</b></a></td>
   <td>AI-Native Developer Tooling / Project Management</td>
@@ -62,7 +66,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/Capitrack"><b>Capitrack</b></a></td>
   <td>Personal wealth tracking &amp; investment portfolio management</td>
@@ -76,7 +80,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/penfolio"><b>PenFolio</b></a></td>
   <td>Self-hosted CV / cover-letter builder &amp; job tracker</td>
@@ -84,30 +88,30 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 </tr>
 </table>
 
-<hr/>
+<br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+</td>
+<td valign="top" width="44%" align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
-    width="60%"
-    alt="GitHub Streak"/>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/3-stats.svg"
   width="100%"
   alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
+
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
+  width="100%"
+  alt="GitHub Streak"/>
+
+<br/>
+
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
   width="100%"
   alt="Top Languages by Commit"/>
+
 </td>
 </tr>
 </table>
