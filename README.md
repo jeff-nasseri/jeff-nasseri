@@ -15,10 +15,6 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="56%">
-
 <h3>About</h3>
 
 <p>
@@ -85,51 +81,5 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
   <td><a href="https://github.com/jeff-nasseri/penfolio"><b>PenFolio</b></a></td>
   <td>CV / cover-letter builder &amp; job tracker</td>
   <td>-</td>
-</tr>
-</table>
-
-<br/>
-
-</td>
-<td valign="top" width="44%" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/3-stats.svg"
-  width="270"
-  alt="GitHub Stats"/>
-
-<br/>
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
-  width="270"
-  alt="GitHub Streak"/>
-
-<br/>
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  width="270"
-  alt="Top Languages by Commit"/>
-
-<br/>
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/4-productive-time.svg"
-  width="270"
-  alt="Productive Time"/>
-
-<br/>
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-  width="270"
-  alt="Repos per Language"/>
-
-</td>
 </tr>
 </table>
