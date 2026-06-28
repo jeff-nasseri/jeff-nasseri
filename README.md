@@ -103,12 +103,22 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
   width="100%"
   alt="GitHub Streak"/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
