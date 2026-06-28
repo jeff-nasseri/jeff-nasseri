@@ -27,8 +27,6 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <b>🔌 MCP tools:</b> Currently I'm working on and maintaining networking and financial MCP tools
 
-<br/>
-
 <table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/mikrotik-mcp"><b>mikrotik-mcp</b></a></td>
@@ -46,8 +44,6 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <b>🤖 Project Management with AI Agents:</b> Tooling I build so teams and their AI agents can plan, manage, and ship work together
 
-<br/>
-
 <table>
 <tr>
   <td><a href="https://github.com/Agelo-Platform"><b>Agelo</b></a></td>
@@ -60,8 +56,6 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <b>💰 FinTech / Personal WealthTech:</b> Tools I'm building to track personal wealth and make sense of investments
 
-<br/>
-
 <table>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/Capitrack"><b>Capitrack</b></a></td>
@@ -73,8 +67,6 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 <br/>
 
 <b>💼 HR Tech / Career Services:</b> Projects to help people build their careers and land their next role
-
-<br/>
 
 <table>
 <tr>
