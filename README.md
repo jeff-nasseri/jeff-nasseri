@@ -15,10 +15,6 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="56%">
-
 <h3>About</h3>
 
 <p>
@@ -33,90 +29,85 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
   <td><a href="https://github.com/jeff-nasseri/mikrotik-mcp"><b>mikrotik-mcp</b></a></td>
   <td>RouterOS AI interface</td>
-  <td><code>Python</code></td>
   <td><a href="https://mikrotik-mcp.com">docs ↗</a></td>
 </tr>
 <tr>
   <td><a href="https://github.com/jeff-nasseri/revolut-mcp"><b>revolut-mcp</b></a></td>
   <td>Revolut Open Banking AI interface</td>
-  <td><code>TypeScript</code></td>
-  <td></td>
+  <td>-</td>
 </tr>
 </table>
 
 <br/>
 
-<b>🛠️ Software Development, Project Management &amp; IT Service Management (ITSM)</b>
+<b>🛠️ Software Development, Project Management &amp; IT Service Management (ITSM):</b> Tooling I build to help developers and teams plan, manage, and ship their work with AI in the loop
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
   <td><a href="https://github.com/Agelo-Platform"><b>Agelo</b></a></td>
   <td>AI-Native Developer Tooling / Project Management</td>
-  <td></td>
   <td><a href="https://agelo.app">agelo.app ↗</a></td>
 </tr>
 </table>
 
 <br/>
 
-<b>💰 FinTech / Personal WealthTech</b>
+<b>💰 FinTech / Personal WealthTech:</b> Tools I'm building to track personal wealth and make sense of investments
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
   <td><a href="https://github.com/jeff-nasseri/Capitrack"><b>Capitrack</b></a></td>
   <td>Personal wealth tracking &amp; investment portfolio management</td>
-  <td><code>C#</code></td>
   <td><a href="https://capitrack.dev">capitrack.dev ↗</a></td>
 </tr>
 </table>
 
 <br/>
 
-<b>💼 HR Tech / Career Services</b>
+<b>💼 HR Tech / Career Services:</b> Projects to help people build their careers and land their next role
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
   <td><a href="https://github.com/jeff-nasseri/penfolio"><b>PenFolio</b></a></td>
   <td>Self-hosted CV / cover-letter builder &amp; job tracker</td>
-  <td><code>TypeScript</code></td>
-  <td></td>
+  <td>-</td>
 </tr>
 </table>
 
-<br/>
+<hr/>
 
-</td>
-<td valign="top" width="44%" align="center">
+<h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
+    width="60%"
+    alt="GitHub Streak"/>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/3-stats.svg"
   width="100%"
   alt="GitHub Stats"/>
-
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-cards/streak.svg"
-  width="100%"
-  alt="GitHub Streak"/>
-
-<br/>
-
+</td>
+<td width="50%" align="center">
 <img
   src="https://raw.githubusercontent.com/jeff-nasseri/jeff-nasseri/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
   width="100%"
   alt="Top Languages by Commit"/>
-
 </td>
 </tr>
 </table>
