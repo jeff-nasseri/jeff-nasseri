@@ -50,15 +50,48 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <br/>
 
-<b>🧩 Agelo:</b> I'm also working on a kanban board for human-agent communication, where you can write tasks/stories for your agent and the agent can follow your Kanban or even Scrum methodologies to finish the job.
-
-<p>→ <a href="https://agelo.app">agelo.app</a> &nbsp;·&nbsp; <a href="https://github.com/Agelo-Platform">Agelo-Platform</a></p>
+<b>🛠️ Software Development, Project Management &amp; IT Service Management (ITSM)</b>
 
 <br/>
 
-<b>💰 Capitrack:</b> A self-hosted platform I'm building for personal wealth tracking and investment portfolio management, where you can monitor your investments across stocks, crypto, and commodities with real-time pricing and portfolio analytics.
+<table>
+<tr>
+  <td><a href="https://github.com/Agelo-Platform"><b>Agelo</b></a></td>
+  <td>AI-Native Developer Tooling / Project Management</td>
+  <td></td>
+  <td><a href="https://agelo.app">agelo.app ↗</a></td>
+</tr>
+</table>
 
-<p>→ <a href="https://capitrack.dev">capitrack.dev</a> &nbsp;·&nbsp; <a href="https://github.com/jeff-nasseri/Capitrack">Capitrack</a></p>
+<br/>
+
+<b>💰 FinTech / Personal WealthTech</b>
+
+<br/>
+
+<table>
+<tr>
+  <td><a href="https://github.com/jeff-nasseri/Capitrack"><b>Capitrack</b></a></td>
+  <td>Personal wealth tracking &amp; investment portfolio management</td>
+  <td><code>C#</code></td>
+  <td><a href="https://capitrack.dev">capitrack.dev ↗</a></td>
+</tr>
+</table>
+
+<br/>
+
+<b>💼 HR Tech / Career Services</b>
+
+<br/>
+
+<table>
+<tr>
+  <td><a href="https://github.com/jeff-nasseri/penfolio"><b>PenFolio</b></a></td>
+  <td>Self-hosted CV / cover-letter builder &amp; job tracker</td>
+  <td><code>TypeScript</code></td>
+  <td></td>
+</tr>
+</table>
 
 <br/>
 
