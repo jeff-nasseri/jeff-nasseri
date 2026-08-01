@@ -25,53 +25,11 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <h3>Active Open Source Projects</h3>
 
-<b>🔌 MCP tools:</b> Currently I'm working on and maintaining networking and financial MCP tools
-
-<table>
-<tr>
-  <td><a href="https://github.com/jeff-nasseri/mikrotik-mcp"><b>mikrotik-mcp</b></a></td>
-  <td>RouterOS AI interface</td>
-  <td><a href="https://mikrotik-mcp.com">docs ↗</a></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/jeff-nasseri/revolut-mcp"><b>revolut-mcp</b></a></td>
-  <td>Revolut Open Banking AI interface</td>
-  <td>-</td>
-</tr>
-</table>
-
-<br/>
-
-<b>🤖 Project Management with AI Agents:</b> Tooling I build so teams and their AI agents can plan, manage, and ship work together
-
-<table>
-<tr>
-  <td><a href="https://github.com/Agelo-Platform"><b>Agelo</b></a></td>
-  <td>AI-Native Developer Tooling / Project Management</td>
-  <td><a href="https://agelo.app">agelo.app ↗</a></td>
-</tr>
-</table>
-
-<br/>
-
-<b>💰 FinTech / Personal WealthTech:</b> Tools I'm building to track personal wealth and make sense of investments
-
-<table>
-<tr>
-  <td><a href="https://github.com/jeff-nasseri/Capitrack"><b>Capitrack</b></a></td>
-  <td>Personal wealth &amp; portfolio tracking</td>
-  <td><a href="https://capitrack.dev">capitrack.dev ↗</a></td>
-</tr>
-</table>
-
-<br/>
-
-<b>💼 HR Tech / Career Services:</b> Projects to help people build their careers and land their next role
-
-<table>
-<tr>
-  <td><a href="https://github.com/jeff-nasseri/penfolio"><b>PenFolio</b></a></td>
-  <td>CV / cover-letter builder &amp; job tracker</td>
-  <td>-</td>
-</tr>
-</table>
+| Name | Category | Description | Organization | Website |
+| --- | --- | --- | --- | --- |
+| [mikrotik-mcp](https://github.com/jeff-nasseri/mikrotik-mcp) | 🔌 MCP Tools | RouterOS AI interface | [jeff-nasseri](https://github.com/jeff-nasseri) | [mikrotik-mcp.com](https://mikrotik-mcp.com) |
+| [revolut-mcp](https://github.com/jeff-nasseri/revolut-mcp) | 🔌 MCP Tools | Revolut Open Banking AI interface | [jeff-nasseri](https://github.com/jeff-nasseri) | - |
+| [Agelo](https://github.com/Agelo-Platform) | 🤖 Project Management with AI Agents | AI-Native Developer Tooling / Project Management | [Agelo-Platform](https://github.com/Agelo-Platform) | [agelo.app](https://agelo.app) |
+| [Capitrack](https://github.com/jeff-nasseri/Capitrack) | 💰 FinTech / Personal WealthTech | Personal wealth &amp; portfolio tracking | [jeff-nasseri](https://github.com/jeff-nasseri) | [capitrack.dev](https://capitrack.dev) |
+| [PenFolio](https://github.com/jeff-nasseri/penfolio) | 💼 HR Tech / Career Services | CV / cover-letter builder &amp; job tracker | [jeff-nasseri](https://github.com/jeff-nasseri) | - |
+| [NeuronCodec](https://github.com/neuroncodec) | 🧬 BioTech / Life Sciences | Open-source biotech research foundation | [neuroncodec](https://github.com/neuroncodec) | [neuroncodec.com](https://neuroncodec.com) |
