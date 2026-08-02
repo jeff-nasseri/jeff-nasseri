@@ -25,11 +25,11 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <h3>Active Open Source Projects</h3>
 
-| Name | Category | Description | Organization | Website |
-| --- | --- | --- | --- | --- |
-| [mikrotik-mcp](https://github.com/jeff-nasseri/mikrotik-mcp) | MCP Tools | RouterOS AI interface | [jeff-nasseri](https://github.com/jeff-nasseri) | [mikrotik-mcp.com](https://mikrotik-mcp.com) |
-| [revolut-mcp](https://github.com/jeff-nasseri/revolut-mcp) | MCP Tools | Revolut Open Banking AI interface | [jeff-nasseri](https://github.com/jeff-nasseri) | - |
-| [Agelo](https://github.com/Agelo-Platform) | Project Management with AI Agents | AI-Native Developer Tooling / Project Management | [Agelo-Platform](https://github.com/Agelo-Platform) | [agelo.app](https://agelo.app) |
-| [Capitrack](https://github.com/jeff-nasseri/Capitrack) | FinTech / Personal WealthTech | Personal wealth &amp; portfolio tracking | [jeff-nasseri](https://github.com/jeff-nasseri) | [capitrack.dev](https://capitrack.dev) |
-| [PenFolio](https://github.com/jeff-nasseri/penfolio) | HR Tech / Career Services | CV / cover-letter builder &amp; job tracker | [jeff-nasseri](https://github.com/jeff-nasseri) | - |
-| [NeuronCodec](https://github.com/neuroncodec) | BioTech / Life Sciences | Open-source biotech research foundation | [neuroncodec](https://github.com/neuroncodec) | [neuroncodec.com](https://neuroncodec.com) |
+| Name | Category | Description | Website |
+| --- | --- | --- | --- |
+| [mikrotik-mcp](https://github.com/jeff-nasseri/mikrotik-mcp) | MCP Tools | RouterOS AI interface | [mikrotik-mcp.com](https://mikrotik-mcp.com) |
+| [revolut-mcp](https://github.com/jeff-nasseri/revolut-mcp) | MCP Tools | Revolut Open Banking AI interface | - |
+| [Agelo](https://github.com/Agelo-Platform) | Project Management with AI Agents | AI-Native Developer Tooling / Project Management | [agelo.app](https://agelo.app) |
+| [Capitrack](https://github.com/jeff-nasseri/Capitrack) | FinTech / Personal WealthTech | Personal wealth &amp; portfolio tracking | [capitrack.dev](https://capitrack.dev) |
+| [PenFolio](https://github.com/jeff-nasseri/penfolio) | HR Tech / Career Services | CV / cover-letter builder &amp; job tracker | - |
+| [NeuronCodec](https://github.com/neuroncodec) | BioTech / Life Sciences | Open-source biotech research foundation | [neuroncodec.com](https://neuroncodec.com) |
