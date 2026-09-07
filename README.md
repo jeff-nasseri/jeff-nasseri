@@ -28,7 +28,13 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 | Name | Category | Description | Website |
 | --- | --- | --- | --- |
 | [mikrotik-mcp](https://github.com/jeff-nasseri/mikrotik-mcp) | MCP Tools | RouterOS AI interface | [mikrotik-mcp.com](https://mikrotik-mcp.com) |
-| [revolut-mcp](https://github.com/jeff-nasseri/revolut-mcp) | MCP Tools | Revolut Open Banking AI interface | - |
+| [revolut-mcp](https://github.com/jeff-nasseri/revolut-mcp) | MCP Tools | Revolut Open Banking AI interface | [docs](https://jeff-nasseri.github.io/revolut-mcp/) |
+| [helm-chart-cli-mcp](https://github.com/jeff-nasseri/helm-chart-cli-mcp) | MCP Tools | Helm Chart CLI AI interface | - |
 | [Agelo](https://github.com/Agelo-Platform) | Project Management with AI Agents | AI-Native Developer Tooling / Project Management | [agelo.app](https://agelo.app) |
 | [Capitrack](https://github.com/jeff-nasseri/Capitrack) | FinTech / Personal WealthTech | Personal wealth &amp; portfolio tracking | [capitrack.dev](https://capitrack.dev) |
 | [PenFolio](https://github.com/jeff-nasseri/penfolio) | HR Tech / Career Services | CV / cover-letter builder &amp; job tracker | - |
+| [RoyaAGI](https://github.com/jeff-nasseri/RoyaAGI) | AGI / Research | Artificial general intelligence engine | - |
+| [RoyaOS](https://github.com/jeff-nasseri/RoyaOS) | AGI / Research | Operating system for AGI agents | - |
+| [Roya-Network-Protocol](https://github.com/jeff-nasseri/Roya-Network-Protocol) | AGI / Research | Agent-Network-Protocol implementation for Roya | - |
+| [AICraft](https://github.com/jeff-nasseri/AICraft) | Developer Tools | Handy developer tools crafted by AI | - |
+| [dev-migrants](https://github.com/jeff-nasseri/dev-migrants) | Community / Developer Resources | Relocation guide for developers | - |
