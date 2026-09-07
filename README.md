@@ -23,7 +23,7 @@ Hey, I'm Jeff, a software engineer currently focusing on AI infrastructure on op
 
 <hr/>
 
-<h3>Active Open Source Projects</h3>
+<h3>Open Source Projects</h3>
 
 | Name | Category | Description | Website |
 | --- | --- | --- | --- |
