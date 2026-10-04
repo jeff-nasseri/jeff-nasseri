@@ -18,11 +18,11 @@
 <h3>About</h3>
 
 <p>
-Hey, I'm Jeff, a software engineer building open source AI infrastructure for the next generation of AI agents and AGI.
+Hey, I'm Jeff, a software engineer building open source AI infrastructure/tools/etc for the next generation of AI agents and AGI.
 </p>
 
 <p>
-What I enjoy most is taking the whole software lifecycle, from infrastructure deployment (bare metal or serverless) through to building applications in any framework, whether monolith or SOA, and shaping it into something an AI can genuinely understand. The goal is for an AI to read a system, change it, and keep the work going on its own, until I no longer need to know exactly how my application works under the hood.
+What I enjoy most is taking the whole software lifecycle, from infrastructure deployment (bare metal or serverless) through to building applications in any framework, whether monolith or distributed, and shaping it into something an AI can genuinely understand. The goal is for an AI to read a system, change it, and keep the work going on its own, until I no longer need to know exactly how my application works under the hood.
 </p>
 
 <hr/>
