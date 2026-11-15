@@ -13,16 +13,6 @@
   </a>
 </p>
 
-<br/>
-
-<h3>About</h3>
-
-<p>
-Welcome!
-</p>
-
-<hr/>
-
 <h3>Open Source Projects</h3>
 
 | Name | Category | Description | Website |
