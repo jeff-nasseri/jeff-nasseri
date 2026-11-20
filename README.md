@@ -19,13 +19,12 @@
 | --- | --- | --- | --- |
 | [mikrotik-mcp](https://github.com/jeff-nasseri/mikrotik-mcp) | MCP Tools | RouterOS AI interface | [mikrotik-mcp.com](https://mikrotik-mcp.com) |
 | [revolut-mcp](https://github.com/jeff-nasseri/revolut-mcp) | MCP Tools | Revolut Open Banking AI interface | [docs](https://jeff-nasseri.github.io/revolut-mcp/) |
-| [helm-chart-cli-mcp](https://github.com/jeff-nasseri/helm-chart-cli-mcp) | MCP Tools | Helm Chart CLI AI interface | - |
+| [routeros-skills](https://github.com/wiresage/routeros-skills) | Agent Skills | Skills that teach AI agents to work with MikroTik RouterOS | [mikrotik-mcp.com](https://mikrotik-mcp.com) |
 | [Agelo](https://github.com/Agelo-Platform) | Project Management with AI Agents | AI-Native Developer Tooling / Project Management | [agelo.app](https://agelo.app) |
 | [Thalamus](https://github.com/jeff-nasseri/Thalamus) | AI Agents / IoT | Cluster of AI agents providing IoT access across nodes | - |
 | [Capitrack](https://github.com/jeff-nasseri/Capitrack) | FinTech / Personal WealthTech | Personal wealth &amp; portfolio tracking | [capitrack.dev](https://capitrack.dev) |
 | [crypto-vult-kit](https://github.com/jeff-nasseri/crypto-vult-kit) | Crypto / Wallet Tools | BIP-39 wallet recovery and key derivation CLI | - |
 | [TerraReverse](https://github.com/jeff-nasseri/TerraReverse) | DevOps / Infrastructure | Reverse engineer existing infrastructure into Terraform | - |
-| [AICraft](https://github.com/jeff-nasseri/AICraft) | Developer Tools | Handy developer tools crafted by AI | - |
 | [BCL](https://github.com/jeff-nasseri/BCL) | Web Automation | Web automation without browser drivers or writing code | - |
 | [PenFolio](https://github.com/jeff-nasseri/penfolio) | HR Tech / Career Services | CV / cover-letter builder &amp; job tracker | - |
 | [PlanPad](https://github.com/jeff-nasseri/planpad) | Productivity / Personal Planning | Self-hosted planning platform with routines, backlog and notes | - |
